@@ -1,5 +1,0 @@
-streamlit>=1.28.0
-pillow>=9.0.0
-numpy>=1.23.0
-onnxruntime>=1.16.0
-scikit-learn>=1.2.0
